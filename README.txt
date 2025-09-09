@@ -1,10 +1,10 @@
 AI/ML Security vs. Traditional Cybersecurity Attacks
 =====================================================
-Field Of Inquiry 
-AI/ML Security
+Field : Cybersecurity - Cloud Security 
+
 
 Research Question : 
-How do AI/ML related cybersecurity attacks differ from traditional attacks in terms of impact and detection, and what does this reveal about current defense gaps in AI systems
+Analyze common vulnerabilities in cloud security from real-world incidents. What specific risks arise from misconfigurations and poor identity management, and what solutions are recommended by MITRE ATT&CK or OWASP to mitigate them?
 
 What’s in the Dataset? :
 The dataset is organized into 16 columns that describe each cybersecurity incident or research scenario in detail
